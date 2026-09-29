@@ -1,5 +1,7 @@
 # Movie Catalog API
 
+[![CI](https://github.com/Gudoourado/movie-catalog-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Gudoourado/movie-catalog-api/actions/workflows/ci.yml)
+
 API REST para catálogo de filmes com sistema de avaliações, desenvolvida com **Java 17** e **Spring Boot 3.2**.
 
 ## Tecnologias
