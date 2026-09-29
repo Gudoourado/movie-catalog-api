@@ -9,9 +9,9 @@ API REST para catálogo de filmes com sistema de avaliações, desenvolvida com 
 ## Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/movie-catalog-api.git
+git clone https://github.com/Gudoourado/movie-catalog-api.git
 cd movie-catalog-api
-./mvnw spring-boot:run
+mvn spring-boot:run
 # API em http://localhost:8081
 ```
 
